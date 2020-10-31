@@ -6,6 +6,6 @@ Buenas Gente!!!!
 
 
 Autores: 
-**Adrián Alameda** 
-**Manuel Moreno**
+**Adrián Alameda**,
+**Manuel Moreno**,
 **Jairo Sánchez** 
